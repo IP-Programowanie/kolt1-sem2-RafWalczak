@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="PK1_kolA.h" />
     <ClInclude Include="Wybor.h" />
   </ItemGroup>
   <ItemGroup>
